@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\ProjetoPessoal\\Pizaria_Registro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C3370789-BDE7-4EA3-88CC-0BE900C87824}|Pizaria_Registro\\Pizaria_Registro.csproj|c:\\users\\danie\\desktop\\projetopessoal\\pizaria_registro\\pizaria_registro\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3370789-BDE7-4EA3-88CC-0BE900C87824}|Pizaria_Registro\\Pizaria_Registro.csproj|solutionrelative:pizaria_registro\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3370789-BDE7-4EA3-88CC-0BE900C87824}|Pizaria_Registro\\Pizaria_Registro.csproj|c:\\users\\danie\\desktop\\projetopessoal\\pizaria_registro\\pizaria_registro\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3370789-BDE7-4EA3-88CC-0BE900C87824}|Pizaria_Registro\\Pizaria_Registro.csproj|solutionrelative:pizaria_registro\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C3370789-BDE7-4EA3-88CC-0BE900C87824}|Pizaria_Registro\\Pizaria_Registro.csproj|c:\\users\\danie\\desktop\\projetopessoal\\pizaria_registro\\pizaria_registro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3370789-BDE7-4EA3-88CC-0BE900C87824}|Pizaria_Registro\\Pizaria_Registro.csproj|solutionrelative:pizaria_registro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ProjetoPessoal\\Pizaria_Registro\\Pizaria_Registro\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Pizaria_Registro\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\ProjetoPessoal\\Pizaria_Registro\\Pizaria_Registro\\Entities\\Product.cs*",
+              "RelativeToolTip": "Pizaria_Registro\\Entities\\Product.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:19:40.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ProjetoPessoal\\Pizaria_Registro\\Pizaria_Registro\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Pizaria_Registro\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\ProjetoPessoal\\Pizaria_Registro\\Pizaria_Registro\\Entities\\Order.cs",
+              "RelativeToolTip": "Pizaria_Registro\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:19:27.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ProjetoPessoal\\Pizaria_Registro\\Pizaria_Registro\\Program.cs",
               "RelativeDocumentMoniker": "Pizaria_Registro\\Program.cs",
               "ToolTip": "C:\\Users\\danie\\Desktop\\ProjetoPessoal\\Pizaria_Registro\\Pizaria_Registro\\Program.cs",
               "RelativeToolTip": "Pizaria_Registro\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T18:41:08.327Z",
               "EditorCaption": ""

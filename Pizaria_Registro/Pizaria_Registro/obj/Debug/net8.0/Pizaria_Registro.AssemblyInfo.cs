@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pizaria_Registro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa496a5ab8b583c35c97a7fb86e1bbf3070db370")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pizaria_Registro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pizaria_Registro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

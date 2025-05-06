@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\ProjetoPessoal\Pizaria_Registro\Pizaria_Registro\bin\Debug\net8.0\Pizaria_Registro.exe
+C:\Users\danie\Desktop\ProjetoPessoal\Pizaria_Registro\Pizaria_Registro\bin\Debug\net8.0\Pizaria_Registro.deps.json
+C:\Users\danie\Desktop\ProjetoPessoal\Pizaria_Registro\Pizaria_Registro\bin\Debug\net8.0\Pizaria_Registro.runtimeconfig.json
+C:\Users\danie\Desktop\ProjetoPessoal\Pizaria_Registro\Pizaria_Registro\bin\Debug\net8.0\Pizaria_Registro.dll
+C:\Users\danie\Desktop\ProjetoPessoal\Pizaria_Registro\Pizaria_Registro\bin\Debug\net8.0\Pizaria_Registro.pdb
+C:\Users\danie\Desktop\ProjetoPessoal\Pizaria_Registro\Pizaria_Registro\obj\Debug\net8.0\Pizaria_Registro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\ProjetoPessoal\Pizaria_Registro\Pizaria_Registro\obj\Debug\net8.0\Pizaria_Registro.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\ProjetoPessoal\Pizaria_Registro\Pizaria_Registro\obj\Debug\net8.0\Pizaria_Registro.AssemblyInfo.cs
+C:\Users\danie\Desktop\ProjetoPessoal\Pizaria_Registro\Pizaria_Registro\obj\Debug\net8.0\Pizaria_Registro.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\ProjetoPessoal\Pizaria_Registro\Pizaria_Registro\obj\Debug\net8.0\Pizaria_Registro.sourcelink.json
+C:\Users\danie\Desktop\ProjetoPessoal\Pizaria_Registro\Pizaria_Registro\obj\Debug\net8.0\Pizaria_Registro.dll
+C:\Users\danie\Desktop\ProjetoPessoal\Pizaria_Registro\Pizaria_Registro\obj\Debug\net8.0\refint\Pizaria_Registro.dll
+C:\Users\danie\Desktop\ProjetoPessoal\Pizaria_Registro\Pizaria_Registro\obj\Debug\net8.0\Pizaria_Registro.pdb
+C:\Users\danie\Desktop\ProjetoPessoal\Pizaria_Registro\Pizaria_Registro\obj\Debug\net8.0\Pizaria_Registro.genruntimeconfig.cache
+C:\Users\danie\Desktop\ProjetoPessoal\Pizaria_Registro\Pizaria_Registro\obj\Debug\net8.0\ref\Pizaria_Registro.dll
