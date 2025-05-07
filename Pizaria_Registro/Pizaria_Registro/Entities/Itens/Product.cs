@@ -1,11 +1,9 @@
-﻿
-
-namespace Pizaria_Registro.Entities
+﻿namespace Pizaria_Registro.Entities.Itens
 {
     class Product
 
     {
-        public String Nome { get; set; }
+        public string Nome { get; set; }
         public double Preco { get; set; }
 
 
